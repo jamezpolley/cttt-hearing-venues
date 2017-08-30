@@ -1,0 +1,1 @@
+Gets a "list":http://www.cttt.nsw.gov.au/Dispute_resolution/Hearing_lists.html of places "CTTT hearings":http://www.cttt.nsw.gov.au/ occur and also gets a link to the list of hearings at that venue for the "hearings scraper":http://scraperwiki.com/scrapers/cttt-hearings/ to pick up.
